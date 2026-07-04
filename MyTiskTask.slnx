@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MyTiskTask/MyTiskTask.csproj" />
+  <Project Path="MyTiskTask2/MyTiskTask2.csproj" />
+</Solution>
