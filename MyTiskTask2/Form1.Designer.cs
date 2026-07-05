@@ -274,7 +274,7 @@
             newTaskButton.Click += newTaskButton_Click;
             // 
             // saveTaskButton
-            // 
+            
             saveTaskButton.AutoSize = true;
             saveTaskButton.Location = new Point(99, 3);
             saveTaskButton.Name = "saveTaskButton";
@@ -283,7 +283,9 @@
             saveTaskButton.Text = "Сохранить";
             saveTaskButton.UseVisualStyleBackColor = true;
             saveTaskButton.Click += saveTaskButton_Click;
-            // 
+            
+
+
             // deleteTaskButton
             // 
             deleteTaskButton.AutoSize = true;

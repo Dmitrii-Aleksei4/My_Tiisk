@@ -2922,11 +2922,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\MyTiskTask\\MyTiskTask2\\MyTiskTask2.csproj",
+      "projectUniqueName": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask2\\MyTiskTask2.csproj",
       "projectName": "MyTiskTask2",
-      "projectPath": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\MyTiskTask\\MyTiskTask2\\MyTiskTask2.csproj",
+      "projectPath": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask2\\MyTiskTask2.csproj",
       "packagesPath": "C:\\Users\\Aleks\\.nuget\\packages\\",
-      "outputPath": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\MyTiskTask\\MyTiskTask2\\obj\\",
+      "outputPath": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"

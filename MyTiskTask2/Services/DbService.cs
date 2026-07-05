@@ -46,8 +46,9 @@ namespace MyTiskTask2.Services
                 CreatedAtUtc = DateTime.Now,
                 UserModel = new UserModel
                 {
-                    Password = password,
-                    
+                    // ХЕШИРУЕМ ПАРОЛЬ 
+                    Password = PasswordHasher.HashPassword(password),
+
                 }
             };
 
@@ -67,8 +68,8 @@ namespace MyTiskTask2.Services
         {
             if (user?.UserModel == null)
                 return false;
-
-            return user.UserModel.Password == password;
+            // ПРОВЕРЯЕМ ХЕШ
+            return PasswordHasher.VerifyPassword(password, user.UserModel.Password);
         }
 
         /// <summary>

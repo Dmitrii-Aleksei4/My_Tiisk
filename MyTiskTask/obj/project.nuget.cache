@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LBc2I/Uxt20=",
+  "dgSpecHash": "Mk2kmE8ftX0=",
   "success": true,
-  "projectFilePath": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\MyTiskTask\\MyTiskTask\\MyTiskTask.csproj",
+  "projectFilePath": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask\\MyTiskTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aleks\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Aleks\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",
@@ -50,9 +50,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "У пакета \"SQLitePCLRaw.lib.e_sqlite3\" 2.1.11 есть известная уязвимость https://github.com/advisories/GHSA-2m69-gcr7-jv3q (уровень серьезности: высокий уровень)",
-      "projectPath": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\MyTiskTask\\MyTiskTask\\MyTiskTask.csproj",
+      "projectPath": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask\\MyTiskTask.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\MyTiskTask\\MyTiskTask\\MyTiskTask.csproj",
+      "filePath": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask\\MyTiskTask.csproj",
       "libraryId": "SQLitePCLRaw.lib.e_sqlite3",
       "targetGraphs": [
         "net10.0-windows"
