@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="MyTiskTask/MyTiskTask.csproj" />
   <Project Path="MyTiskTask2/MyTiskTask2.csproj" />
+  <Project Path="MyTiskTask4.Console/MyTiskTask4.Console.csproj" Id="9601a8f8-f6b2-4541-8187-f1e64096f1e2" />
   <Project Path="MyTiskTask3/MyTiskTask3.csproj" />
-
+  <Project Path="MyTiskTask4/MyTiskTask4.csproj" />
 </Solution>

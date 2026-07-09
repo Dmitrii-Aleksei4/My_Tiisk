@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyTiskTask2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3bdcb0b1bc994fb5c77048f1859e29d5565fff9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d97866bb9033371c4d7a45e3340a0402276d027c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyTiskTask2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyTiskTask2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

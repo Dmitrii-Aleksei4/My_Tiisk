@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "OobdEb4sIig=",
+  "success": true,
+  "projectFilePath": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask4.Console\\MyTiskTask4.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleks\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.9\\microsoft.data.sqlite.core.10.0.9.nupkg.sha512",
+    "C:\\Users\\Aleks\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.9\\microsoft.entityframeworkcore.10.0.9.nupkg.sha512",
+    "C:\\Users\\Aleks\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.9\\microsoft.entityframeworkcore.abstractions.10.0.9.nupkg.sha512",
+    "C:\\Users\\Aleks\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.9\\microsoft.entityframeworkcore.analyzers.10.0.9.nupkg.sha512",
+    "C:\\Users\\Aleks\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.9\\microsoft.entityframeworkcore.relational.10.0.9.nupkg.sha512",
+    "C:\\Users\\Aleks\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\10.0.9\\microsoft.entityframeworkcore.sqlite.10.0.9.nupkg.sha512",
+    "C:\\Users\\Aleks\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\10.0.9\\microsoft.entityframeworkcore.sqlite.core.10.0.9.nupkg.sha512",
+    "C:\\Users\\Aleks\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.9\\microsoft.extensions.caching.abstractions.10.0.9.nupkg.sha512",
+    "C:\\Users\\Aleks\\.nuget\\packages\\microsoft.extensions.caching.memory\\10.0.9\\microsoft.extensions.caching.memory.10.0.9.nupkg.sha512",
+    "C:\\Users\\Aleks\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.9\\microsoft.extensions.configuration.abstractions.10.0.9.nupkg.sha512",
+    "C:\\Users\\Aleks\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.9\\microsoft.extensions.dependencyinjection.10.0.9.nupkg.sha512",
+    "C:\\Users\\Aleks\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.9\\microsoft.extensions.dependencyinjection.abstractions.10.0.9.nupkg.sha512",
+    "C:\\Users\\Aleks\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.9\\microsoft.extensions.dependencymodel.10.0.9.nupkg.sha512",
+    "C:\\Users\\Aleks\\.nuget\\packages\\microsoft.extensions.logging\\10.0.9\\microsoft.extensions.logging.10.0.9.nupkg.sha512",
+    "C:\\Users\\Aleks\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.9\\microsoft.extensions.logging.abstractions.10.0.9.nupkg.sha512",
+    "C:\\Users\\Aleks\\.nuget\\packages\\microsoft.extensions.options\\10.0.9\\microsoft.extensions.options.10.0.9.nupkg.sha512",
+    "C:\\Users\\Aleks\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.9\\microsoft.extensions.primitives.10.0.9.nupkg.sha512",
+    "C:\\Users\\Aleks\\.nuget\\packages\\sourcegear.sqlite3\\3.50.4.5\\sourcegear.sqlite3.3.50.4.5.nupkg.sha512",
+    "C:\\Users\\Aleks\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\3.0.3\\sqlitepclraw.bundle_e_sqlite3.3.0.3.nupkg.sha512",
+    "C:\\Users\\Aleks\\.nuget\\packages\\sqlitepclraw.config.e_sqlite3\\3.0.3\\sqlitepclraw.config.e_sqlite3.3.0.3.nupkg.sha512",
+    "C:\\Users\\Aleks\\.nuget\\packages\\sqlitepclraw.core\\3.0.3\\sqlitepclraw.core.3.0.3.nupkg.sha512",
+    "C:\\Users\\Aleks\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\3.0.3\\sqlitepclraw.provider.e_sqlite3.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

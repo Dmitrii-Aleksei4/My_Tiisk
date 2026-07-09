@@ -3,132 +3,48 @@
   "WorkspaceRootPath": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|solutionrelative:mytisktask3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A0F96A0-C302-0C88-7B20-4BC7809C130E}|MyTiskTask4\\MyTiskTask4.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask4\\model\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F96A0-C302-0C88-7B20-4BC7809C130E}|MyTiskTask4\\MyTiskTask4.csproj|solutionrelative:mytisktask4\\model\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask3\\services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|solutionrelative:mytisktask3\\services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A0F96A0-C302-0C88-7B20-4BC7809C130E}|MyTiskTask4\\MyTiskTask4.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask4\\services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F96A0-C302-0C88-7B20-4BC7809C130E}|MyTiskTask4\\MyTiskTask4.csproj|solutionrelative:mytisktask4\\services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask3\\model\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|solutionrelative:mytisktask3\\model\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A0F96A0-C302-0C88-7B20-4BC7809C130E}|MyTiskTask4\\MyTiskTask4.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F96A0-C302-0C88-7B20-4BC7809C130E}|MyTiskTask4\\MyTiskTask4.csproj|solutionrelative:mytisktask4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|solutionrelative:mytisktask3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A0F96A0-C302-0C88-7B20-4BC7809C130E}|MyTiskTask4\\MyTiskTask4.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask4\\mytisktask4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A0F96A0-C302-0C88-7B20-4BC7809C130E}|MyTiskTask4\\MyTiskTask4.csproj|solutionrelative:mytisktask4\\mytisktask4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask3\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|solutionrelative:mytisktask3\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A0F96A0-C302-0C88-7B20-4BC7809C130E}|MyTiskTask4\\MyTiskTask4.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask4\\database\\databasepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F96A0-C302-0C88-7B20-4BC7809C130E}|MyTiskTask4\\MyTiskTask4.csproj|solutionrelative:mytisktask4\\database\\databasepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask3\\migrations\\20260702100650_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|solutionrelative:mytisktask3\\migrations\\20260702100650_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A0F96A0-C302-0C88-7B20-4BC7809C130E}|MyTiskTask4\\MyTiskTask4.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask4\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F96A0-C302-0C88-7B20-4BC7809C130E}|MyTiskTask4\\MyTiskTask4.csproj|solutionrelative:mytisktask4\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|solutionrelative:mytisktask3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5A0F96A0-C302-0C88-7B20-4BC7809C130E}|MyTiskTask4\\MyTiskTask4.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F96A0-C302-0C88-7B20-4BC7809C130E}|MyTiskTask4\\MyTiskTask4.csproj|solutionrelative:mytisktask4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask3\\formnewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|solutionrelative:mytisktask3\\formnewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A0F96A0-C302-0C88-7B20-4BC7809C130E}|MyTiskTask4\\MyTiskTask4.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask4\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F96A0-C302-0C88-7B20-4BC7809C130E}|MyTiskTask4\\MyTiskTask4.csproj|solutionrelative:mytisktask4\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask3\\formnewuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|solutionrelative:mytisktask3\\formnewuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A0F96A0-C302-0C88-7B20-4BC7809C130E}|MyTiskTask4\\MyTiskTask4.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask4\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0F96A0-C302-0C88-7B20-4BC7809C130E}|MyTiskTask4\\MyTiskTask4.csproj|solutionrelative:mytisktask4\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask3\\formnewuser.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|solutionrelative:mytisktask3\\formnewuser.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3.Console\\MainWindowConsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyTiskTask3.Console\\MainWindowConsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|solutionrelative:mytisktask3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask3\\formnewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|solutionrelative:mytisktask3\\formnewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask3\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|solutionrelative:mytisktask3\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask3\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|solutionrelative:mytisktask3\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask3\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|solutionrelative:mytisktask3\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask3\\model\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|solutionrelative:mytisktask3\\model\\usertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask3\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|solutionrelative:mytisktask3\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask3\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|solutionrelative:mytisktask3\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask3\\migrations\\20260702100650_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|solutionrelative:mytisktask3\\migrations\\20260702100650_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask3\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A11F1A-FB84-0A36-58C7-1F6A0863F291}|MyTiskTask3\\MyTiskTask3.csproj|solutionrelative:mytisktask3\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51A4CF32-48E9-CE8B-576F-AF9CF459F094}|MyTiskTask2\\MyTiskTask2.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask2\\mytisktask2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{51A4CF32-48E9-CE8B-576F-AF9CF459F094}|MyTiskTask2\\MyTiskTask2.csproj|solutionrelative:mytisktask2\\mytisktask2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51A4CF32-48E9-CE8B-576F-AF9CF459F094}|MyTiskTask2\\MyTiskTask2.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask2\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51A4CF32-48E9-CE8B-576F-AF9CF459F094}|MyTiskTask2\\MyTiskTask2.csproj|solutionrelative:mytisktask2\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51A4CF32-48E9-CE8B-576F-AF9CF459F094}|MyTiskTask2\\MyTiskTask2.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask2\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51A4CF32-48E9-CE8B-576F-AF9CF459F094}|MyTiskTask2\\MyTiskTask2.csproj|solutionrelative:mytisktask2\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51A4CF32-48E9-CE8B-576F-AF9CF459F094}|MyTiskTask2\\MyTiskTask2.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask2\\services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51A4CF32-48E9-CE8B-576F-AF9CF459F094}|MyTiskTask2\\MyTiskTask2.csproj|solutionrelative:mytisktask2\\services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51A4CF32-48E9-CE8B-576F-AF9CF459F094}|MyTiskTask2\\MyTiskTask2.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51A4CF32-48E9-CE8B-576F-AF9CF459F094}|MyTiskTask2\\MyTiskTask2.csproj|solutionrelative:mytisktask2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51A4CF32-48E9-CE8B-576F-AF9CF459F094}|MyTiskTask2\\MyTiskTask2.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask2\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51A4CF32-48E9-CE8B-576F-AF9CF459F094}|MyTiskTask2\\MyTiskTask2.csproj|solutionrelative:mytisktask2\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6586D58C-E0FF-E71F-0310-1056844DA7E4}|MyTiskTask\\MyTiskTask.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6586D58C-E0FF-E71F-0310-1056844DA7E4}|MyTiskTask\\MyTiskTask.csproj|solutionrelative:mytisktask\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51A4CF32-48E9-CE8B-576F-AF9CF459F094}|MyTiskTask2\\MyTiskTask2.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51A4CF32-48E9-CE8B-576F-AF9CF459F094}|MyTiskTask2\\MyTiskTask2.csproj|solutionrelative:mytisktask2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51A4CF32-48E9-CE8B-576F-AF9CF459F094}|MyTiskTask2\\MyTiskTask2.csproj|D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\mytisktask2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{51A4CF32-48E9-CE8B-576F-AF9CF459F094}|MyTiskTask2\\MyTiskTask2.csproj|solutionrelative:mytisktask2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6586D58C-E0FF-E71F-0310-1056844DA7E4}|MyTiskTask\\MyTiskTask.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6586D58C-E0FF-E71F-0310-1056844DA7E4}|MyTiskTask\\MyTiskTask.csproj|solutionrelative:mytisktask\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6586D58C-E0FF-E71F-0310-1056844DA7E4}|MyTiskTask\\MyTiskTask.csproj|d:\\pycharn\\vs\\repos\\dmitrii-aleksei4\\mylessonc_sharp\\my_tisktask\\my_tiisk\\mytisktask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6586D58C-E0FF-E71F-0310-1056844DA7E4}|MyTiskTask\\MyTiskTask.csproj|solutionrelative:mytisktask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6586D58C-E0FF-E71F-0310-1056844DA7E4}|MyTiskTask\\MyTiskTask.csproj|D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\mytisktask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6586D58C-E0FF-E71F-0310-1056844DA7E4}|MyTiskTask\\MyTiskTask.csproj|solutionrelative:mytisktask\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3.Console\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyTiskTask3.Console\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -138,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 24,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -166,406 +82,158 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20260702100650_InitialCreate.Designer.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Migrations\\20260702100650_InitialCreate.Designer.cs",
-              "RelativeDocumentMoniker": "MyTiskTask3\\Migrations\\20260702100650_InitialCreate.Designer.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Migrations\\20260702100650_InitialCreate.Designer.cs",
-              "RelativeToolTip": "MyTiskTask3\\Migrations\\20260702100650_InitialCreate.Designer.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAhwBEAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TaskStatus.cs",
+              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask4\\Model\\TaskStatus.cs",
+              "RelativeDocumentMoniker": "MyTiskTask4\\Model\\TaskStatus.cs",
+              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask4\\Model\\TaskStatus.cs",
+              "RelativeToolTip": "MyTiskTask4\\Model\\TaskStatus.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T20:51:06.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FormNewUser.resx",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\FormNewUser.resx",
-              "RelativeDocumentMoniker": "MyTiskTask3\\FormNewUser.resx",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\FormNewUser.resx",
-              "RelativeToolTip": "MyTiskTask3\\FormNewUser.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-07-04T19:56:21.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FormNewUser.Designer.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\FormNewUser.Designer.cs",
-              "RelativeDocumentMoniker": "MyTiskTask3\\FormNewUser.Designer.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\FormNewUser.Designer.cs",
-              "RelativeToolTip": "MyTiskTask3\\FormNewUser.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:56:16.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FormNewUser.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\FormNewUser.cs",
-              "RelativeDocumentMoniker": "MyTiskTask3\\FormNewUser.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\FormNewUser.cs",
-              "RelativeToolTip": "MyTiskTask3\\FormNewUser.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:56:08.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Program.cs",
-              "RelativeDocumentMoniker": "MyTiskTask3\\Program.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Program.cs",
-              "RelativeToolTip": "MyTiskTask3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:55:55.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FormNewUser.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\FormNewUser.cs",
-              "RelativeDocumentMoniker": "MyTiskTask3\\FormNewUser.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\FormNewUser.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "MyTiskTask3\\FormNewUser.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:55:53.929Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Form1.resx",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Form1.resx",
-              "RelativeDocumentMoniker": "MyTiskTask3\\Form1.resx",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Form1.resx",
-              "RelativeToolTip": "MyTiskTask3\\Form1.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-07-04T19:55:51.386Z",
+              "WhenOpened": "2026-07-09T08:44:18.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "MyTiskTask3\\Form1.Designer.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Form1.Designer.cs",
-              "RelativeToolTip": "MyTiskTask3\\Form1.Designer.cs",
-              "ViewState": "AgIAABQBAAAAAAAAAAAAAB4BAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:55:45.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TaskService.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Services\\TaskService.cs",
-              "RelativeDocumentMoniker": "MyTiskTask3\\Services\\TaskService.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Services\\TaskService.cs",
-              "RelativeToolTip": "MyTiskTask3\\Services\\TaskService.cs",
+              "Title": "MyTiskTask4.csproj",
+              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask4\\MyTiskTask4.csproj",
+              "RelativeDocumentMoniker": "MyTiskTask4\\MyTiskTask4.csproj",
+              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask4\\MyTiskTask4.csproj",
+              "RelativeToolTip": "MyTiskTask4\\MyTiskTask4.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:55:36.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PasswordHasher.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Services\\PasswordHasher.cs",
-              "RelativeDocumentMoniker": "MyTiskTask3\\Services\\PasswordHasher.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Services\\PasswordHasher.cs",
-              "RelativeToolTip": "MyTiskTask3\\Services\\PasswordHasher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:55:34.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DbService.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Services\\DbService.cs",
-              "RelativeDocumentMoniker": "MyTiskTask3\\Services\\DbService.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Services\\DbService.cs",
-              "RelativeToolTip": "MyTiskTask3\\Services\\DbService.cs",
-              "ViewState": "AgIAANcAAAAAAAAAAAAqwN4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:55:32.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UserTask.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Model\\UserTask.cs",
-              "RelativeDocumentMoniker": "MyTiskTask3\\Model\\UserTask.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Model\\UserTask.cs",
-              "RelativeToolTip": "MyTiskTask3\\Model\\UserTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:55:29.3Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-09T08:17:54.291Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Model\\UserModel.cs",
-              "RelativeDocumentMoniker": "MyTiskTask3\\Model\\UserModel.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Model\\UserModel.cs",
-              "RelativeToolTip": "MyTiskTask3\\Model\\UserModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DatabasePath.cs",
+              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask4\\DataBase\\DatabasePath.cs",
+              "RelativeDocumentMoniker": "MyTiskTask4\\DataBase\\DatabasePath.cs",
+              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask4\\DataBase\\DatabasePath.cs",
+              "RelativeToolTip": "MyTiskTask4\\DataBase\\DatabasePath.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:55:26.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-09T07:47:32.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Model\\User.cs",
-              "RelativeDocumentMoniker": "MyTiskTask3\\Model\\User.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Model\\User.cs",
-              "RelativeToolTip": "MyTiskTask3\\Model\\User.cs",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask4\\DataBase\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MyTiskTask4\\DataBase\\AppDbContext.cs",
+              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask4\\DataBase\\AppDbContext.cs",
+              "RelativeToolTip": "MyTiskTask4\\DataBase\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T07:42:25.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindowConsole.cs",
+              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3.Console\\MainWindowConsole.cs",
+              "RelativeDocumentMoniker": "MyTiskTask3.Console\\MainWindowConsole.cs",
+              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3.Console\\MainWindowConsole.cs",
+              "RelativeToolTip": "MyTiskTask3.Console\\MainWindowConsole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T06:20:04.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask4\\Program.cs",
+              "RelativeDocumentMoniker": "MyTiskTask4\\Program.cs",
+              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask4\\Program.cs",
+              "RelativeToolTip": "MyTiskTask4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:55:24.733Z",
+              "WhenOpened": "2026-07-09T05:55:18.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask4\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "MyTiskTask4\\Services\\PasswordHasher.cs",
+              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask4\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "MyTiskTask4\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T05:42:40.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask4\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "MyTiskTask4\\Services\\TaskService.cs",
+              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask4\\Services\\TaskService.cs",
+              "RelativeToolTip": "MyTiskTask4\\Services\\TaskService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T05:39:29.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3.Console\\Program.cs",
+              "RelativeDocumentMoniker": "MyTiskTask3.Console\\Program.cs",
+              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3.Console\\Program.cs",
+              "RelativeToolTip": "MyTiskTask3.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T05:37:22.659Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "2e4deade-2a8c-4f5d-8242-8c34151a1815",
+        "Display": 1,
+        "X": 271,
+        "Y": 0,
+        "Width": 1229,
+        "Height": 828,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbService.cs",
+              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask4\\Services\\DbService.cs",
+              "RelativeDocumentMoniker": "MyTiskTask4\\Services\\DbService.cs",
+              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask4\\Services\\DbService.cs",
+              "RelativeToolTip": "MyTiskTask4\\Services\\DbService.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAASwPoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T05:39:16.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TaskStatus.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Model\\TaskStatus.cs",
-              "RelativeDocumentMoniker": "MyTiskTask3\\Model\\TaskStatus.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Model\\TaskStatus.cs",
-              "RelativeToolTip": "MyTiskTask3\\Model\\TaskStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:55:22.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "MyTiskTask3\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "MyTiskTask3\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:55:10.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "20260702100650_InitialCreate.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Migrations\\20260702100650_InitialCreate.cs",
-              "RelativeDocumentMoniker": "MyTiskTask3\\Migrations\\20260702100650_InitialCreate.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Migrations\\20260702100650_InitialCreate.cs",
-              "RelativeToolTip": "MyTiskTask3\\Migrations\\20260702100650_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:55:04.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\DataBase\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "MyTiskTask3\\DataBase\\AppDbContext.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\DataBase\\AppDbContext.cs",
-              "RelativeToolTip": "MyTiskTask3\\DataBase\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:54:59.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Form1.cs",
-              "RelativeDocumentMoniker": "MyTiskTask3\\Form1.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Form1.cs",
-              "RelativeToolTip": "MyTiskTask3\\Form1.cs",
-              "ViewState": "AgIAACMBAAAAAAAAAAAEwDUBAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask4\\Form1.cs",
+              "RelativeDocumentMoniker": "MyTiskTask4\\Form1.cs",
+              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask4\\Form1.cs",
+              "RelativeToolTip": "MyTiskTask4\\Form1.cs",
+              "ViewState": "AgIAAI0CAAAAAAAAAAAQwJ8CAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:54:42.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Form1.cs",
-              "RelativeDocumentMoniker": "MyTiskTask3\\Form1.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask3\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "MyTiskTask3\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:54:30.213Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "MyTiskTask2.csproj",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask2\\MyTiskTask2.csproj",
-              "RelativeDocumentMoniker": "MyTiskTask2\\MyTiskTask2.csproj",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask2\\MyTiskTask2.csproj",
-              "RelativeToolTip": "MyTiskTask2\\MyTiskTask2.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-04T19:46:25.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "TaskService.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask2\\Services\\TaskService.cs",
-              "RelativeDocumentMoniker": "MyTiskTask2\\Services\\TaskService.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask2\\Services\\TaskService.cs",
-              "RelativeToolTip": "MyTiskTask2\\Services\\TaskService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:38:56.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask2\\Form1.cs",
-              "RelativeDocumentMoniker": "MyTiskTask2\\Form1.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask2\\Form1.cs",
-              "RelativeToolTip": "MyTiskTask2\\Form1.cs",
-              "ViewState": "AgIAAKYAAAAAAAAAAAAhwLMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T19:31:25.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "PasswordHasher.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask2\\Services\\PasswordHasher.cs",
-              "RelativeDocumentMoniker": "MyTiskTask2\\Services\\PasswordHasher.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask2\\Services\\PasswordHasher.cs",
-              "RelativeToolTip": "MyTiskTask2\\Services\\PasswordHasher.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T18:53:30.294Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "DbService.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask2\\Services\\DbService.cs",
-              "RelativeDocumentMoniker": "MyTiskTask2\\Services\\DbService.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask2\\Services\\DbService.cs",
-              "RelativeToolTip": "MyTiskTask2\\Services\\DbService.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAqwEkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T18:52:05.974Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask2\\Model\\UserModel.cs",
-              "RelativeDocumentMoniker": "MyTiskTask2\\Model\\UserModel.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask2\\Model\\UserModel.cs",
-              "RelativeToolTip": "MyTiskTask2\\Model\\UserModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T18:51:09.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask\\DataBase\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "MyTiskTask\\DataBase\\AppDbContext.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask\\DataBase\\AppDbContext.cs",
-              "RelativeToolTip": "MyTiskTask\\DataBase\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T18:50:54.172Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask2\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "MyTiskTask2\\Form1.Designer.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask2\\Form1.Designer.cs",
-              "RelativeToolTip": "MyTiskTask2\\Form1.Designer.cs",
-              "ViewState": "AgIAAAwBAAAAAAAAAAAQwBQBAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T18:20:10.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask2\\Form1.cs",
-              "RelativeDocumentMoniker": "MyTiskTask2\\Form1.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask2\\Form1.cs [Design]",
-              "RelativeToolTip": "MyTiskTask2\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T18:20:07.465Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask\\Form1.cs",
-              "RelativeDocumentMoniker": "MyTiskTask\\Form1.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask\\Form1.cs",
-              "RelativeToolTip": "MyTiskTask\\Form1.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowAoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T18:19:12.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "MyTiskTask\\Form1.Designer.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask\\Form1.Designer.cs",
-              "RelativeToolTip": "MyTiskTask\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T18:19:06.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask\\Form1.cs",
-              "RelativeDocumentMoniker": "MyTiskTask\\Form1.cs",
-              "ToolTip": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask\\Form1.cs [Design]",
-              "RelativeToolTip": "MyTiskTask\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T18:18:54.198Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-07-09T05:43:09.02Z"
             }
           ]
         }
