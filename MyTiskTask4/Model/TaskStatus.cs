@@ -5,7 +5,7 @@ using System.Text;
 namespace MyTiskTask4.Model
 {
     /// <summary>
-    /// Статусы задачи
+    /// Статусы задачи не возможно изменить
     /// </summary>
     public enum UserTaskStatus
     {

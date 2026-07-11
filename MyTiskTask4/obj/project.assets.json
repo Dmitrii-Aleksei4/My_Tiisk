@@ -2973,23 +2973,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Aleks\\.nuget\\packages\\": {},
-    "E:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\dmitr\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask4\\MyTiskTask4.csproj",
+      "projectUniqueName": "C:\\Users\\dmitr\\OneDrive\\Документы\\GitHub\\My_Tiisk\\MyTiskTask4\\MyTiskTask4.csproj",
       "projectName": "MyTiskTask4",
-      "projectPath": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask4\\MyTiskTask4.csproj",
-      "packagesPath": "C:\\Users\\Aleks\\.nuget\\packages\\",
-      "outputPath": "D:\\Pycharn\\VS\\repos\\Dmitrii-Aleksei4\\MyLessonC_Sharp\\My_TiskTask\\My_Tiisk\\MyTiskTask4\\obj\\",
+      "projectPath": "C:\\Users\\dmitr\\OneDrive\\Документы\\GitHub\\My_Tiisk\\MyTiskTask4\\MyTiskTask4.csproj",
+      "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dmitr\\OneDrive\\Документы\\GitHub\\My_Tiisk\\MyTiskTask4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "E:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dmitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3065,7 +3065,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
